@@ -1,0 +1,31 @@
+.footer {
+    color : white;
+    background-color: rgba(33,36,41,255);
+    padding-top: 3em;
+    position:relative;
+    left:0;
+    bottom:0;
+    right:0; 
+    width: 100%;
+
+}
+
+.containerF {
+    display: flex;
+    justify-content: center; 
+    
+}
+/* .row {
+    
+    
+} */
+.col {
+    text-align: left;
+}
+
+.font-link {
+    font-family: 'Maven Pro', sans-serif;
+  }
+.hovereffect:hover{
+    color: #E5AA70;
+}
